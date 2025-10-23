@@ -17,3 +17,14 @@ npm run build
 ## Struktur
 - `docs/` — Skript/Handout in Markdown
 - `slides/` — Marp-Markdown-Folien
+
+## Students
+
+### [Lino Heide]
+- **GitHub:** Lino1705(https://github.com/Lino1705)
+- **Program:** Master Mechanical Engineering
+- **Interests:** 
+    - Zocken
+    - Freundin
+    - Irgendwas
+- **Background:** bissl java

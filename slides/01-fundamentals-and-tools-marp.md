@@ -4,7 +4,7 @@ paginate: true
 footer: "FH OÖ Wels · Visualization & Data Processing (VIS3VO)"
 ---
 
-# Visualization & Data Processing  
+# Visualization & Data Processing was ich eh schon kann 
 Master Mechanical Engineering · 3rd Semester
 
 **Lecture 1: Programming Fundamentals & Tools**  

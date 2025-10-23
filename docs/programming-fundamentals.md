@@ -6,7 +6,7 @@ Programming paradigms are fundamental approaches to organizing and structuring c
 
 ### Procedural Programming
 
-**Concept:** Programs are organized as a sequence of functions that operate on data.
+**Concept:** Programs are organized as a sequence of functions that operate on data. test
 
 **Characteristics:**
 - **Step-by-step execution:** Code runs from top to bottom
