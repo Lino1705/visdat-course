@@ -509,10 +509,4 @@ print("Nova Paka analysis report generated: nova_paka_analysis_report.md")
 
 ## References
 
-1. **Nova Paka Autocross Circuit**: 930m clay-sandy surface circuit in the Czech Republic, regularly used for European Autocross Championship events.
-
-2. **Formula Student Telemetry**: Standard data acquisition systems used in Formula Student competitions, providing high-frequency vehicle dynamics data.
-
-3. Milliken, W. F., & Milliken, D. L. (1995). *Race Car Vehicle Dynamics*. SAE International.
-
-> **Educational Note**: This comprehensive case study demonstrates the complete workflow from raw racing telemetry data to meaningful engineering insights. The Nova Paka dataset provides realistic autocross racing scenarios with appropriate speed ranges (15-50 km/h) and g-force levels (up to 1.5g) typical of tight autocross circuits. The processed data and analysis results provide the foundation for advanced visualization and interactive analysis in subsequent course modules.
+1. Milliken, W. F., & Milliken, D. L. (1995). *Race Car Vehicle Dynamics*. SAE International.
